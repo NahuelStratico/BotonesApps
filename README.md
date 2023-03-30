@@ -3,7 +3,6 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 
 ## Calculador IMC.
 
-* Diseñar y programar app completa IMC
 * Cambios entre pantallas
 * Gestión y creación de colores
 * Diseño de UI
