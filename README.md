@@ -26,3 +26,15 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 | ------------- | ------------- |
 | ![68747470733a2f2f692e696d6775722e636f6d2f757656683451392e706e67](https://user-images.githubusercontent.com/49825382/228909867-bb5fb8b1-9e4d-4d4d-a667-a482f28997b5.png)| ![68747470733a2f2f692e696d6775722e636f6d2f476848756a36632e706e67](https://user-images.githubusercontent.com/49825382/228910084-474e0fd4-ea2a-437a-a61e-9eeb4cc68a50.png) |
 
+## Buscador de superheroes
+
+* SearchView
+* Consumo de APIs con Retrofit
+* Funciones lambdas
+* Recyclerview
+
+| Pantalla principal  | Detalle de la busqueda |
+| ------------- | ------------- |
+|![68747470733a2f2f692e696d6775722e636f6d2f584e7754486a792e706e67](https://user-images.githubusercontent.com/49825382/228910900-f023253a-6f6f-4a03-89ab-923a4cb44fa8.png) | ![68747470733a2f2f692e696d6775722e636f6d2f78594f73734a662e706e67](https://user-images.githubusercontent.com/49825382/228911053-f8b99081-44af-4703-a005-2182e1c282e1.png) |
+
+
