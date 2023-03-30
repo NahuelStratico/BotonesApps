@@ -15,7 +15,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 | ------------- | ------------- |
 | ![IMC (1)](https://user-images.githubusercontent.com/49825382/228908667-b2a2854b-2ebf-4fab-8514-47a58ab673c2.png)
 
- | ![IMC2](https://user-images.githubusercontent.com/49825382/228891059-925ca008-ad62-4796-a2da-2ac8a93301cd.png) |
+ |  ![IMC2](https://user-images.githubusercontent.com/49825382/228909037-e1ae81c8-d9d1-4c9c-9ec0-97cc7393ba96.png) |
 
 	
     
