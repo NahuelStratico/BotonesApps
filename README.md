@@ -37,4 +37,12 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 | ------------- | ------------- |
 |![68747470733a2f2f692e696d6775722e636f6d2f584e7754486a792e706e67](https://user-images.githubusercontent.com/49825382/228910900-f023253a-6f6f-4a03-89ab-923a4cb44fa8.png) | ![68747470733a2f2f692e696d6775722e636f6d2f78594f73734a662e706e67](https://user-images.githubusercontent.com/49825382/228911053-f8b99081-44af-4703-a005-2182e1c282e1.png) |
 
+## Pantalla de ajustes.
 
+* Persistencia de datos con DataStore
+* Switch y RangeSlider
+* Modo noche
+
+| Pantalla principal  | Persistencia de datos |
+| ------------- | ------------- |
+|![68747470733a2f2f692e696d6775722e636f6d2f486e59514965772e706e67](https://user-images.githubusercontent.com/49825382/228911785-1074f284-ad18-4ee9-a6cc-2458b7acc5a6.png) | ![68747470733a2f2f692e696d6775722e636f6d2f7031596e3167742e706e67](https://user-images.githubusercontent.com/49825382/228911827-a9474fa5-011e-4c5d-ab6a-ecb310704132.png) |
