@@ -1,5 +1,9 @@
 # Botonera de Apps
-Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de datos con Flow
+Botonera de aplicaciones, donde trabajo con Apis con Retrofit y Persistencia de datos con Flow.
+
+<img width="201" alt="Captura de pantalla 2023-03-30 141047" src="https://user-images.githubusercontent.com/49825382/228913127-fad0cfee-60c9-4237-9aa0-5ae0a9cdb27c.png">
+
+
 
 ## Calculador IMC.
 
