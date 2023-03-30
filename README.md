@@ -1,4 +1,4 @@
-# BotonesApps
+# Botonera de Apps
 Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de datos con Flow
 
 ## Calculador IMC.
@@ -10,7 +10,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * RangeSlider
 * Compatibilidad con múltiples idiomas (Strings)
 * Listeners y clicks
-
+<br/>
 
 | Pantalla principal  | Resultado |
 | ------------- | ------------- |
@@ -22,6 +22,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * Dialog
 * Sealed class
 * Funciones lambdas
+<br/>
 
 
 | Pantalla principal  | Añadiendo tareas |
@@ -34,6 +35,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * Consumo de APIs con Retrofit
 * Funciones lambdas
 * Recyclerview
+<br/>
 
 
 | Pantalla principal  | Detalle de la busqueda |
@@ -45,6 +47,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * Persistencia de datos con DataStore
 * Switch y RangeSlider
 * Modo noche
+<br/>
 
 
 | Pantalla principal  | Persistencia de datos |
