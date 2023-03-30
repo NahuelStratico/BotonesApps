@@ -11,6 +11,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * Compatibilidad con múltiples idiomas (Strings)
 * Listeners y clicks
 
+
 | Pantalla principal  | Resultado |
 | ------------- | ------------- |
 | ![IMC (1)](https://user-images.githubusercontent.com/49825382/228908667-b2a2854b-2ebf-4fab-8514-47a58ab673c2.png)| ![IMC2](https://user-images.githubusercontent.com/49825382/228909037-e1ae81c8-d9d1-4c9c-9ec0-97cc7393ba96.png) |
@@ -21,6 +22,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * Dialog
 * Sealed class
 * Funciones lambdas
+
 
 | Pantalla principal  | Añadiendo tareas |
 | ------------- | ------------- |
@@ -33,6 +35,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * Funciones lambdas
 * Recyclerview
 
+
 | Pantalla principal  | Detalle de la busqueda |
 | ------------- | ------------- |
 |![68747470733a2f2f692e696d6775722e636f6d2f584e7754486a792e706e67](https://user-images.githubusercontent.com/49825382/228910900-f023253a-6f6f-4a03-89ab-923a4cb44fa8.png) | ![68747470733a2f2f692e696d6775722e636f6d2f78594f73734a662e706e67](https://user-images.githubusercontent.com/49825382/228911053-f8b99081-44af-4703-a005-2182e1c282e1.png) |
@@ -42,6 +45,7 @@ Botonera de aplicaciones, donde trabajo con Apis con Retrofit, Persistencia de d
 * Persistencia de datos con DataStore
 * Switch y RangeSlider
 * Modo noche
+
 
 | Pantalla principal  | Persistencia de datos |
 | ------------- | ------------- |
