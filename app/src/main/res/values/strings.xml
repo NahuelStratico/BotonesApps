@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Menu Buttons -->
+    <string name="menu_title">Some Proyects</string>
+    <string name="menu_subTitle">Click below</string>
+    <string name="button_greetApp">Greet App</string>
+    <string name="button_imcApp">IMC App</string>
+    <string name="button_todoApp">TODO App</string>
+    <string name="button_superheroApp">Superhero App</string>
+    <string name="button_setting">Setting</string>
+
+    <!-- IMC APP -->
+    <string name="app_name">imcApp</string>
+    <string name="height_number">120 cm</string>
+    <string name="button">press Me</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="age">age</string>
+    <string name="calculate">calculate</string>
+    <string name="result_title">Your Result</string>
+    <string name="recalculate">Re-calculate</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_under_weight">Under weight</string>
+    <string name="description_under_wight">You are underweight for your height and weight</string>
+
+    <string name="title_normal_weight">Normal weight</string>
+    <string name="description_normal_wight">You are of normal weight for your height and weight</string>
+
+    <string name="title_over_weight">Over weight</string>
+    <string name="description_over_wight">You are overweight for your height and weight</string>
+
+    <string name="title_obesity">obesity</string>
+    <string name="description_obesity">You are obesity for your height and weight</string>
+
+
+    <!-- TODOApp -->
+    <string name="todo_title">Welcome, Nahuel</string>
+    <string name="todo_categories">Categories:</string>
+    <string name="todo_tasks">Tasks:</string>
+
+    <string name="todo_dialog_add_task">Add your Task</string>
+    <string name="todo_business_add_text">Business</string>
+    <string name="todo_personal_add_text">Personal</string>
+    <string name="todo_other_add_text">Others</string>
+    <string name="todo_button_add_task">Create task</string>
+
+    <!-- Settings -->
+    <string name="dark_mode">Dark mode</string>
+    <string name="dark_mode_description">Turn on dark mode for a visual change </string>
+
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_description">Connect your headphones wirelessly </string>
+
+    <string name="volume">Volume</string>
+
+    <string name="vibration">Vibration</string>
+    <string name="vibration_description">Turn on vibration in this mobile </string>
+
+</resources>

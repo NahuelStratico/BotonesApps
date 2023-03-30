@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".firstapp.MenuActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_title"
+        android:textStyle="bold"
+        android:textSize="35sp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_subTitle"
+        android:textSize="25sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnSaludApp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="16dp"
+        android:text="@string/button_greetApp"
+        style="?attr/materialButtonOutlinedStyle"
+        app:strokeColor="@color/purple_500"
+        app:cornerRadius="20dp"
+        />
+
+    <Button
+        android:id="@+id/btnIMCApp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="16dp"
+        android:text="@string/button_imcApp"
+        style="?attr/materialButtonOutlinedStyle"
+        app:strokeColor="@color/purple_500"
+        app:cornerRadius="20dp"/>
+
+    <Button
+        android:id="@+id/btnTODO"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="16dp"
+        android:text="@string/button_todoApp"
+        style="?attr/materialButtonOutlinedStyle"
+        app:strokeColor="@color/purple_500"
+        app:cornerRadius="20dp"/>
+
+    <Button
+        android:id="@+id/btnSuperhero"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="16dp"
+        android:text="@string/button_superheroApp"
+        style="?attr/materialButtonOutlinedStyle"
+        app:strokeColor="@color/purple_500"
+        app:cornerRadius="20dp"/>
+
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="16dp"
+        android:text="@string/button_setting"
+        style="?attr/materialButtonOutlinedStyle"
+        app:strokeColor="@color/purple_500"
+        app:cornerRadius="20dp"/>
+
+</LinearLayout>
